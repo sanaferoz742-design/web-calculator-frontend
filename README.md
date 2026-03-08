@@ -1,2 +1,7 @@
-# web-calculator-frontend
-a full functional responsive calculator using html css and js .that calculator performs basic arthematic operations.
+ Modern Web Calculator 
+A fully functional, responsive calculator built using HTML5, CSS3, and JavaScript.
+ Features
+*   Basic Arithmetic Operations.
+*   Fully Responsive Design.
+*   Clean UI.
+link("")
